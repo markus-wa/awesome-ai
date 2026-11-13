@@ -1,4 +1,4 @@
-# ai
+# Awesome AI
 
 Rough list of AI-coding references I don't want to lose. Deliberately shallow — a
 pointer is enough, the detail lives at the source.
@@ -7,12 +7,17 @@ pointer is enough, the detail lives at the source.
 
 ## stack
 
+**open-weight · ZDR + no-train**
+- **[pi](https://pi.dev)** — the harness; `deepseek-v4.1-flash` via requesty by default
+- **[requesty](https://requesty.ai)** — router: zero data retention, no training
+- models: `deepseek-v4.1-flash` (default), kimi
+
+**anthropic**
+- **[claude](https://claude.com/claude-code)** — Claude Code
+
+**either route** — model-agnostic tooling
 - **[mattpocock/skills](https://github.com/mattpocock/skills)** — daily driver
 - **[sandcastle](https://github.com/mattpocock/sandcastle)** — `@ai-hero/sandcastle`, agents in sandboxes + branch strategies
-- **[pi](https://pi.dev)** — the harness
-- **[claude](https://claude.com/claude-code)** — Claude Code
-- **[requesty](https://requesty.ai)** — router: ZDR, no-train, deepseek / kimi
-- models: `deepseek-v4.1-flash` default, kimi — both via requesty
 
 ## skills
 
@@ -25,7 +30,9 @@ pointer is enough, the detail lives at the source.
 
 - **[12-Factor Agents (AI Engineer World's Fair)](https://www.youtube.com/watch?v=8kMaTybvDUw)** — humanlayer
 - **[HumanLayer deep dive](https://www.youtube.com/watch?v=yxJDyQ8v6P0)** — humanlayer
-- **[youtu.be/8bIHcttkOTE](https://youtu.be/8bIHcttkOTE)** — humanlayer, title unknown
+- **[Why AI Agents Keep Failing at Simple Tasks](https://youtu.be/8bIHcttkOTE)** — humanlayer, Tool Use ep 34
+- **[Full Walkthrough: Workflow for AI Coding](https://www.youtube.com/watch?v=-QFHIoCo-Ko)** — mattpocock, AI Engineer
+- **[All Code Is Slop (Except Mine)](https://aiewf.app/sessions/s0033)** — poteto, AIE Code Summit keynote — video not published yet
 - `?` **YC context-engineering talk** — humanlayer — need URL
 
 ## writing
@@ -34,11 +41,6 @@ pointer is enough, the detail lives at the source.
 - **[Agents with Taste](https://emilkowal.ski/ui/agents-with-taste)** — emil
 - **[Good vs Great Animations](https://emilkowal.ski/ui/good-vs-great-animations)** — emil
 - `?` **You Don't Need Animations** / **Developing Taste** — emil — on emilkowal.ski
-
-## courses
-
-- **[AI Coding Crash Course](https://www.aihero.dev/workshops/ai-coding-crash-course)** — mattpocock
-- **[animations.dev](https://animations.dev)** · **[aiforui.dev](https://aiforui.dev)** — emil
 
 ## repos & tools
 
