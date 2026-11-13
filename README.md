@@ -24,7 +24,7 @@ pointer is enough, the detail lives at the source.
 - **[mattpocock/skills](https://github.com/mattpocock/skills)** — `/grill-with-docs`, `/tdd`, `/to-tickets`, `/triage`
 - **[emilkowalski/skills](https://github.com/emilkowalski/skills)** — UI, animation, gestures, taste
 - **[cursor/plugins](https://github.com/cursor/plugins)** — `pstack` (poteto), `orchestrate`, `thermos`, `continual-learning`
-- **[poteto/how](https://github.com/poteto/how)** · **[noodle](https://github.com/poteto/noodle)** · **[brainmaxxing](https://github.com/poteto/brainmaxxing)** · **[verification-skill-example](https://github.com/poteto/verification-skill-example)**
+- **[poteto/how](https://github.com/poteto/how)** · **[brainmaxxing](https://github.com/poteto/brainmaxxing)**
 
 ## talks
 
