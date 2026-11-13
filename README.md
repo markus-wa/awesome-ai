@@ -8,9 +8,9 @@ pointer is enough, the detail lives at the source.
 ## stack
 
 **open-weight · ZDR + no-train**
-- **[pi](https://pi.dev)** — the harness; `deepseek-v4.1-flash` via requesty by default
+- **[pi](https://pi.dev)** — the harness; deepseek via requesty by default
 - **[requesty](https://requesty.ai)** — router: zero data retention, no training
-- models: `deepseek-v4.1-flash` (default), kimi
+- models: deepseek, kimi
 
 **anthropic**
 - **[claude](https://claude.com/claude-code)** — Claude Code
